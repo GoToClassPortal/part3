@@ -1,0 +1,37 @@
+body {
+    background-color: antiquewhite!important;
+    direction: rtl;
+}
+
+p {
+    color: black;
+}
+
+a.test {
+    color: white;
+    background-color: black;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a.titlelink {
+    color: purple;
+    font-size: 100px;
+    text-align: center;
+}
+
+div.box {
+    width: 300px;
+    height: 600px;
+    background-color: gray;
+    margin: 20px;
+    display: inline-block;
+}
+
+div.box a {
+    color: purple;
+    background-color: bisque;
+}
